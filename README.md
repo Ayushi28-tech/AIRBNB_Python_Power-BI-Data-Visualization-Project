@@ -9,9 +9,13 @@ For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 m
 
 # Repository files -
 listings.csv - Chicago listings dataset
+
 listings (1).csv - New Orleans listings dataset
+
 Air_BNB_Python_Power BI_Project.ipynb - Jupyter Notebook used for data manipulation data wrangling with Python.
+
 cleaned_airbnb_data - Appended cleaned dataset generated after Python Data Wrangling.
+
 AIRBNB_Data_Visualization.pbix - Data Visualization or Dashboard is ready from Power BI.
 
 # Steps to proceed with the dashboard:
